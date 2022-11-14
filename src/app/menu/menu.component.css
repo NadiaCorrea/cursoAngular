@@ -1,0 +1,16 @@
+ul{
+    padding: 0;
+    background-color: rgb(255, 221, 158);
+    width: 100%;
+    height: 40px;
+  }
+  
+li {
+    display: inline;
+  }
+  
+li span {
+    font-family: Arial;
+    float: left;
+    padding: 10px;
+  }
